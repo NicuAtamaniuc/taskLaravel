@@ -1,0 +1,75 @@
+#crud{
+    background-color: white;
+    padding: 15px;
+    box-shadow: 5px 10px 8px #888888;
+    border-radius: 15px;
+    margin-top: 50px;
+    text-align: center;
+  }
+
+.links1{
+  background-color: white;
+  padding: 10px 100px 10px 100px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 15px;
+  margin-top: 20px;
+  text-align: center;
+} 
+
+.links2{
+  background-color: white;
+  padding: 10px 100px 10px 100px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 15px;
+  margin-top: 20px;
+  text-align: center;
+} 
+
+.links4{
+  background-color: white;
+  padding: 10px 100px 10px 100px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 15px;
+  margin-top: 20px;
+  text-align: center;
+} 
+
+.operator_raion{
+  background-color: white;
+  padding: 10px 100px 10px 100px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 15px;
+  margin-top: 20px;
+  text-align: center;
+} 
+
+.operator{
+  background-color: white;
+  padding: 10px 100px 10px 100px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 15px;
+  margin-top: 20px;
+  text-align: center;
+} 
+
+.flex-center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#eco{
+  max-width: 100%;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+#eco option{
+  max-width: 100%;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+
